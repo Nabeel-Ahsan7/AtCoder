@@ -1,4 +1,4 @@
-# AtCoder DP Problem Solutions
+# AtCoder Educational DP Contest Solutions
 
 | Problem Name | Solution Link | Problem Link |
 |-------------|--------------|--------------|
