@@ -10,3 +10,4 @@
 | LCS | [Solution](./LCS.cpp) | [Link](https://atcoder.jp/contests/dp/tasks/dp_f) |
 | Longest Path | [Solution](./Longest_Path.cpp) | [Link](https://atcoder.jp/contests/dp/tasks/dp_g) |
 | Grid 1 | [Solution](./Grid_1.cpp) | [Link](https://atcoder.jp/contests/dp/tasks/dp_h) |
+| Coins | [Solution](./Coins.cpp) | [Link](https://atcoder.jp/contests/dp/tasks/dp_i) |
